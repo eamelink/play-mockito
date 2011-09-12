@@ -1,0 +1,6 @@
+lib/play-mockito.jar
+dist
+tmp
+.project
+.classpath
+.settings
