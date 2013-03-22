@@ -1,7 +1,7 @@
 Play Mockito module *Unmaintained*
 ===================
 
-*THIS MODULE IS NOT MAINTAINED ANYMORE(
+*THIS MODULE IS NOT MAINTAINED ANYMORE*
 
 Mockito is slightly incompatible with Play, for two reasons:
 
